@@ -1,0 +1,27 @@
+site_name: Agglayer Documentation
+site_url: https://docs.agglayer.dev/
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tracking
+    - navigation.integration
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+
+nav:
+  - Home: index.md
+  - Agglayer:
+      - Overview: agglayer/overview.md
+      - Architecture: 
+          - Overview: agglayer/architecture/overview.md

@@ -1,0 +1,6 @@
+mkdocs-material==9.6.2
+markdown-include==0.8.1
+mkdocs-open-in-new-tab==1.0.3
+mkdocs-multirepo-plugin==0.8.3
+mkdocs-redirects==1.2.2
+mkdocs-mermaid2-plugin==1.1.1
