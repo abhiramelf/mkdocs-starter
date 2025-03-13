@@ -1,4 +1,4 @@
-# MKDocs Starter Project Template
+# MKDocs Starter Project
 
 Welcome to the **MKDocs Starter** repository! Fast setup MKDocs material theme with this starter project.
 
