@@ -5,7 +5,6 @@ theme:
   features:
     - search.suggest
     - search.highlight
-    - search.share
     - navigation.tracking
     - navigation.integration
     - navigation.tabs
