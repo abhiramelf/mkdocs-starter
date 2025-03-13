@@ -1,6 +1,6 @@
 # MKDocs Starter
 
-Welcome to the **MKDocs Starter** repository! Easily setup MKDocs material theme with this starter project.
+Welcome to the **MKDocs Starter** repository! Fast setup MKDocs material theme with this starter project.
 
 ## Prerequisites
 
