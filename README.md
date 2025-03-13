@@ -1,6 +1,6 @@
 # MKDocs Starter
 
-Welcome to the **MKDocs Starter** repository! This repository provides a simple way to set up and run an MKDocs project locally.
+Welcome to the **MKDocs Starter** repository! Easily setup MKDocs material theme with this starter project.
 
 ## Prerequisites
 
